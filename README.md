@@ -1,6 +1,6 @@
 # leaguelosestreakmeter
 
-Lose streak meter for League of legends  
+Simple lose streak meter for League of Legends using [RiotWatcher](https://github.com/pseudonym117/Riot-Watcher)
 
 Actually checking only Ranked games
 

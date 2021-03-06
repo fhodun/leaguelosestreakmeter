@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="leaguelosestreakmeter",
-    version="0.0.1",
+    version="0.0.2",
     author='Filip Hodun',
     author_email='filiphodun@gmail.com',
     license='GPL-3.0',
