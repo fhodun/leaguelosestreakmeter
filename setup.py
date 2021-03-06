@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="leaguelosestreakmeter-fhodun",
+    name="leaguelosestreakmeter",
     version="0.0.1",
     author='Filip Hodun',
     author_email='filiphodun@gmail.com',
