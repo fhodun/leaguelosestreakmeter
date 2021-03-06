@@ -1,7 +1,7 @@
 from riotwatcher import LolWatcher, ApiError
 
 
-def main(token, region, summoner_name):
+def losestreak(token, region, summoner_name):
     lol_watcher = LolWatcher(token)
 
     try:
